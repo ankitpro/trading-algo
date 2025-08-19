@@ -112,3 +112,9 @@ else:
 ```
 
 For more details, check the individual broker implementations and example strategies in the `strategy/` folder.
+
+
+
+###  References:
+1. https://raahibhushan.substack.com/p/survivor-algo-goes-open-source
+2. https://raahibhushan.substack.com/p/the-wave-extractor-algo-2
